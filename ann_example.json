@@ -1,0 +1,38 @@
+{
+    "form": [
+        {
+            "box": [
+                x1,
+                y1,
+                w1,
+                h1
+            ],
+            "text": "NGƯỜI NHẬP LIỆU",
+            "label": "key",
+            "linking": [
+                [
+                    0, 
+                    1
+                ]
+            ],
+            "id": 0
+        },
+        {
+            "box": [
+                x2,
+                y2,
+                w2,
+                h2
+            ],
+            "text": "NGUYEN NGOC ANH THO",
+            "label": "value",
+            "linking": [
+                [
+                    0,
+                    1
+                ]
+            ],
+            "id": 1
+        }
+    ]
+}
